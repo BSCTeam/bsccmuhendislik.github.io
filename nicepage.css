@@ -35553,7 +35553,6 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-search-1 {
   width: 235px;
   min-height: 38px;
-  height: auto;
   margin: -55px auto 0;
 }
 
@@ -35577,6 +35576,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-search-1 {
     width: 235px;
+    height: auto;
     margin-top: -64px;
   }
 
