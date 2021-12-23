@@ -35314,7 +35314,6 @@ a.u-link.u-text-hover-grey-90:hover {
         margin-top: 20px;
         margin-bottom: 20px;
         font-family: Raleway,sans-serif;
-        text-transform: uppercase;
         letter-spacing: 2px;
         list-icon-spacing: 0.3;
         list-icon-size: 0.8;
@@ -35546,13 +35545,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-text-1 {
-  font-size: 1.875rem;
   margin: 38px 804px 0 0;
 }
 
 .u-header .u-menu-1 {
   font-family: size-14;
-  margin: -34px -16px 40px auto;
+  margin: -34px -16px 2px auto;
 }
 
 .u-header .u-nav-1 {
@@ -35590,7 +35588,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    font-size: 1.5rem;
     margin-right: 4px;
   }
 
