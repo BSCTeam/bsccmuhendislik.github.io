@@ -35275,17 +35275,17 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h2:not(.u-subtitle)
         {
-        font-size: 2.25rem;
+        font-size: 3rem;
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
         font-family: 'Roboto Condensed',sans-serif;
         text-transform: none;
         letter-spacing: 2px;
-        font-weight: 700;
         text-decoration: none solid rgb(17, 17, 17);
         list-icon-spacing: 0.3;
         list-icon-size: 0.8;
+        font-weight: 400;
         }
         h3
         {
@@ -35610,16 +35610,17 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-cell-1 {
-  min-height: 121px;
+  min-height: 175px;
 }
 
 .u-footer .u-container-layout-1 {
-  padding: 20px 30px;
+  padding: 20px 17px;
 }
 
 .u-footer .u-position-1 {
+  min-height: 29px;
   width: 300px;
-  margin: 0;
+  margin: 38px auto 0;
 }
 
 .u-footer .u-text-1 {
@@ -35629,7 +35630,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-cell-2 {
-  min-height: 121px;
+  min-height: 175px;
 }
 
 .u-footer .u-container-layout-2 {
@@ -35661,7 +35662,7 @@ a.u-link.u-text-hover-grey-90:hover {
   min-height: 16px;
   width: 201px;
   min-width: 94px;
-  margin: 22px 43px 0 auto;
+  margin: 31px auto 0;
 }
 
 .u-footer .u-icon-1 {
@@ -35686,6 +35687,10 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-left: initial;
   }
 
+  .u-footer .u-layout-cell-1 {
+    min-height: 121px;
+  }
+
   .u-footer .u-container-layout-1 {
     padding-left: 25px;
     padding-right: 25px;
@@ -35693,6 +35698,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-position-1 {
     width: 233px;
+    height: auto;
+  }
+
+  .u-footer .u-layout-cell-2 {
+    min-height: 121px;
   }
 
   .u-footer .u-layout-cell-3 {
@@ -35710,8 +35720,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-footer .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 17px;
+    padding-right: 17px;
   }
 
   .u-footer .u-position-1 {
