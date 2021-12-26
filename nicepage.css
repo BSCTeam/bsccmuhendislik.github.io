@@ -35690,6 +35690,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-layout-cell-1 {
     min-height: 121px;
+    animation-duration: 2500ms;
   }
 
   .u-footer .u-container-layout-1 {
