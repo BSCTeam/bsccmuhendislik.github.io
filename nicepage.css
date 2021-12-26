@@ -35537,7 +35537,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {
-  background-image: none;
+  background-image: linear-gradient(to right, white, black);
 }
 
 .u-header .u-sheet-1 {
@@ -35620,13 +35620,14 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-position-1 {
   min-height: 29px;
   width: 300px;
-  margin: 38px auto 0;
+  margin: 24px auto 0;
 }
 
 .u-footer .u-text-1 {
-  font-weight: 400;
-  font-family: Aldrich;
   margin-top: 0;
+  font-size: 2.25rem;
+  font-family: Aclonica;
+  font-weight: 400;
 }
 
 .u-footer .u-layout-cell-2 {
