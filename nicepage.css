@@ -35251,11 +35251,14 @@ a.u-link.u-text-hover-grey-90:hover {
         /** common-rules **/
         h1.u-title
         {
-        font-weight: 400;
         font-size: 4.5rem;
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-weight: 400;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        font-family: SFNSDisplay-Black;
         }
         h2.u-subtitle
         {
@@ -35618,15 +35621,16 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-position-1 {
-  min-height: 29px;
+  min-height: 43px;
+  height: auto;
   width: 300px;
-  margin: 24px auto 0;
+  margin: 31px auto 0;
 }
 
 .u-footer .u-text-1 {
   margin-top: 0;
   font-size: 2.25rem;
-  font-family: Aclonica;
+  font-family: SFNSDisplay-Semibold;
   font-weight: 400;
 }
 
@@ -35700,7 +35704,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-position-1 {
     width: 233px;
-    height: auto;
   }
 
   .u-footer .u-layout-cell-2 {
